@@ -1,0 +1,194 @@
+[
+  {
+    "id": "ape",
+    "nome": "ape",
+    "immagine": "assets/animali/ape.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "aquila",
+    "nome": "aquila",
+    "immagine": "assets/animali/aquila.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "balena",
+    "nome": "balena",
+    "immagine": "assets/animali/balena.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "cane",
+    "nome": "cane",
+    "immagine": "assets/animali/cane.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "canguro",
+    "nome": "canguro",
+    "immagine": "assets/animali/canguro.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "cavallo",
+    "nome": "cavallo",
+    "immagine": "assets/animali/cavallo.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "coccodrillo",
+    "nome": "coccodrillo",
+    "immagine": "assets/animali/coccodrillo.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "coniglio",
+    "nome": "coniglio",
+    "immagine": "assets/animali/coniglio.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "delfino",
+    "nome": "delfino",
+    "immagine": "assets/animali/delfino.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "elefante",
+    "nome": "elefante",
+    "immagine": "assets/animali/elefante.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "farfalla",
+    "nome": "farfalla",
+    "immagine": "assets/animali/farfalla.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "gallina",
+    "nome": "gallina",
+    "immagine": "assets/animali/gallina.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "gatto",
+    "nome": "gatto",
+    "immagine": "assets/animali/gatto.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "giraffa",
+    "nome": "giraffa",
+    "immagine": "assets/animali/giraffa.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "granchio",
+    "nome": "granchio",
+    "immagine": "assets/animali/granchio.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "gufo",
+    "nome": "gufo",
+    "immagine": "assets/animali/gufo.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "ippopotamo",
+    "nome": "ippopotamo",
+    "immagine": "assets/animali/ippopotamo.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "koala",
+    "nome": "koala",
+    "immagine": "assets/animali/koala.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "lumaca",
+    "nome": "lumaca",
+    "immagine": "assets/animali/lumaca.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "lupo",
+    "nome": "lupo",
+    "immagine": "assets/animali/lupo.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "maiale",
+    "nome": "maiale",
+    "immagine": "assets/animali/maiale.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "panda",
+    "nome": "panda",
+    "immagine": "assets/animali/panda.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "pappagallo",
+    "nome": "pappagallo",
+    "immagine": "assets/animali/pappagallo.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "pesce",
+    "nome": "pesce",
+    "immagine": "assets/animali/pesce.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "pinguino",
+    "nome": "pinguino",
+    "immagine": "assets/animali/pinguino.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "pipistrello",
+    "nome": "pipistrello",
+    "immagine": "assets/animali/pipistrello.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "polpo",
+    "nome": "polpo",
+    "immagine": "assets/animali/polpo.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "rana",
+    "nome": "rana",
+    "immagine": "assets/animali/rana.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "scimmia",
+    "nome": "scimmia",
+    "immagine": "assets/animali/scimmia.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "scoiattolo",
+    "nome": "scoiattolo",
+    "immagine": "assets/animali/scoiattolo.png",
+    "pdf": "1 (2)(1).pdf"
+  },
+  {
+    "id": "tartaruga",
+    "nome": "tartaruga",
+    "immagine": "assets/animali/tartaruga.png",
+    "pdf": "1 (1)(1).pdf"
+  },
+  {
+    "id": "tigre",
+    "nome": "tigre",
+    "immagine": "assets/animali/tigre.png",
+    "pdf": "1 (1)(1).pdf"
+  }
+]
